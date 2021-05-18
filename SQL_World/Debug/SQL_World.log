@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny _main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\hp\source\repos\SQL_World\Debug\SQL_World.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
